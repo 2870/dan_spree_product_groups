@@ -1,0 +1,23 @@
+---
+en:
+  spree/product_group:
+    name: Name
+    product_count: "Product count"
+    product_scopes: "Product scopes"
+    products: "Products"
+    url: URL
+  spree/product_scope:
+    arguments: "Arguments"
+    description: "Description"
+  spree/product_group:
+    one: "Product group"
+    other: "Product groups"
+  create_product_group_from_products: Create a new product group from these products
+  product_scopes:
+    scopes:
+      ascend_by_master_price:
+        name: Ascend by product master price
+      descend_by_master_price:
+        name: Descend by product master price
+      descend_by_popularity:
+        name: Sort by popularity(most popular first)
